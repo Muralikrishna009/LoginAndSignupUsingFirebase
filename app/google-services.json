@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461579502695",
+    "project_id": "loginfortesting-17f60",
+    "storage_bucket": "loginfortesting-17f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461579502695:android:121480e5cf376f2fe5c0c2",
+        "android_client_info": {
+          "package_name": "com.muralikrishna.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461579502695-i2m7l50u1kajb2b2mnmua2cppoa9qepr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pqPgcqfW2W_rdsrEU8axEBNJZx85DdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461579502695-i2m7l50u1kajb2b2mnmua2cppoa9qepr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
